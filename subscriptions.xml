@@ -1,11 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <opml version="2.0">
+	<head>
+		<title>subscriptions.xml</title>
+		<dateCreated>Fri, 08 Jun 2018</dateCreated>
+		<dateModified></dateModified>
+		<ownerName>Jean-Christoph von Oertzen</ownerName>
+		<ownerEmail>jean@einfach-hochsensibel.de</ownerEmail>
+		<ownerId>https://einfach-hochsensibel.de</ownerId>
+	</head>
 	<body>
 		<outline text="Subscriptions" title="Subscriptions">
+			<outline xmlUrl='https://einfach-hochsensibel.de/feed/' />
 			<outline xmlUrl='https://www.eft-fuer-hochsensible-menschen.de/feed/' />
-<outline xmlUrl='https://www.zartbesaitet.net/feed/' />
-<outline xmlUrl='https://hochsensibelsein.de/feed/' />
-<outline xmlUrl='https://pusteblumen-fuer-mama.de/feed/' />
-	
+			<outline xmlUrl='https://www.zartbesaitet.net/feed/' />
+			<outline xmlUrl='https://hochsensibelsein.de/feed/' />
+			<outline xmlUrl='https://pusteblumen-fuer-mama.de/feed/' />
+			<outline xmlUrl='https://simplyfeelit.de/feed/' />
+			<outline xmlUrl='http://feinfuehlen.de/feed/' />
+			<outline xmlUrl='https://www.zart-stark.de/' />
+			<outline xmlUrl='http://www.hochsensibel-der-blog.de/' />
+			<outline xmlUrl='http://www.hochsensiblepersonen.com/feed/' />
+			<outline xmlUrl='http://www.honigperlen.at/feed/' />
+			<outline xmlUrl='https://hsp-academy.de/feed/' />
+			<outline xmlUrl='https://mymonk.de/feed/' />
+			
 		</outline>
 	</body>
 </opml>
