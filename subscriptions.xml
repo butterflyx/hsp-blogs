@@ -23,5 +23,8 @@
 			<outline xmlUrl='https://mymonk.de/feed/' />
 			
 		</outline>
+		<outline text="Subscriptions international" title="Subscriptions international">
+			<outline xmlUrl='https://www.quietrev.com/category/life/feed/' />
+		</outline>
 	</body>
 </opml>
