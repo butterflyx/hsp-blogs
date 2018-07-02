@@ -9,6 +9,7 @@
 	<body>
 		<outline text="Subscriptions" title="Subscriptions">
 			<outline xmlUrl='https://einfach-hochsensibel.de/feed/' />
+			<outline xmlUrl='https://www.healthyhabits.de/feed/' />
 			<outline xmlUrl='https://www.eft-fuer-hochsensible-menschen.de/feed/' />
 			<outline xmlUrl='https://www.zartbesaitet.net/feed/' />
 			<outline xmlUrl='https://hochsensibelsein.de/feed/' />
